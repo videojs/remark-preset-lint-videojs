@@ -1,6 +1,6 @@
 {
   "name": "remark-preset-lint-videojs",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A remark preset to configure remark-lint with standard rules for video.js project documentation.",
   "author": {
     "name": "Brandon Casey",
