@@ -109,6 +109,3 @@ This preset configures [remark-lint](https://github.com/wooorm/remark-lint) with
 | [`table-pipes`](https://github.com/wooorm/remark-lint/tree/master/packages/remark-lint-table-pipes)                                             | `['warn']`                   |
 | [`unordered-list-marker-style`](https://github.com/wooorm/remark-lint/tree/master/packages/remark-lint-unordered-list-marker-style)             | `['warn', '*']`              |
 
-It also includes the following plugins:
-
-* [`remark-validate-links`](https://github.com/wooorm/remark-validate-links)

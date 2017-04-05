@@ -2,7 +2,7 @@
 
 var plugins = [
   require('remark-lint'),
-	require('remark-validate-links'),
+	// require('remark-validate-links'),
 	[require('remark-lint-blockquote-indentation'), ['error', 2]],
 	[require('remark-lint-checkbox-character-style'), ['warn']],
 	[require('remark-lint-checkbox-content-indent'), ['error']],
