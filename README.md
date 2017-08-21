@@ -55,7 +55,7 @@ This preset configures [remark-lint](https://github.com/wooorm/remark-lint) with
 | [`definition-spacing`](https://github.com/wooorm/remark-lint/tree/master/packages/remark-lint-definition-spacing)                               | `['error']`                  |
 | [`emphasis-marker`](https://github.com/wooorm/remark-lint/tree/master/packages/remark-lint-emphasis-marker)                                     | `['error', '_']`             |
 | [`fenced-code-flag`](https://github.com/wooorm/remark-lint/tree/master/packages/remark-lint-fenced-code-flag)                                   | `['error']`                  |
-| [`fenced-code-marker`](https://github.com/wooorm/remark-lint/tree/master/packages/remark-lint-fenced-code-marker)                               | ``['error', '`'`]`           |
+| [`fenced-code-marker`](https://github.com/wooorm/remark-lint/tree/master/packages/remark-lint-fenced-code-marker)                               | ``['error', '`']``           |
 | [`file-extension`](https://github.com/wooorm/remark-lint/tree/master/packages/remark-lint-file-extension)                                       | `['error']`                  |
 | [`final-definition`](https://github.com/wooorm/remark-lint/tree/master/packages/remark-lint-final-definition)                                   | `['error']`                  |
 | [`final-newline`](https://github.com/wooorm/remark-lint/tree/master/packages/remark-lint-final-newline)                                         | `['off']`                    |
