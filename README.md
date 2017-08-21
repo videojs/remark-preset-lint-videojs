@@ -55,7 +55,7 @@ This preset configures [remark-lint](https://github.com/wooorm/remark-lint) with
 | [`definition-spacing`](https://github.com/wooorm/remark-lint/tree/master/packages/remark-lint-definition-spacing)                               | `['error']`                  |
 | [`emphasis-marker`](https://github.com/wooorm/remark-lint/tree/master/packages/remark-lint-emphasis-marker)                                     | `['error', '_']`             |
 | [`fenced-code-flag`](https://github.com/wooorm/remark-lint/tree/master/packages/remark-lint-fenced-code-flag)                                   | `['error']`                  |
-| [`fenced-code-marker`](https://github.com/wooorm/remark-lint/tree/master/packages/remark-lint-fenced-code-marker)                               | ``['error', '`'`]`           |
+| [`fenced-code-marker`](https://github.com/wooorm/remark-lint/tree/master/packages/remark-lint-fenced-code-marker)                               | ``['error', '`']``           |
 | [`file-extension`](https://github.com/wooorm/remark-lint/tree/master/packages/remark-lint-file-extension)                                       | `['error']`                  |
 | [`final-definition`](https://github.com/wooorm/remark-lint/tree/master/packages/remark-lint-final-definition)                                   | `['error']`                  |
 | [`final-newline`](https://github.com/wooorm/remark-lint/tree/master/packages/remark-lint-final-newline)                                         | `['off']`                    |
@@ -71,7 +71,7 @@ This preset configures [remark-lint](https://github.com/wooorm/remark-lint) with
 | [`maximum-heading-length`](https://github.com/wooorm/remark-lint/tree/master/packages/remark-lint-maximum-heading-length)                       | `['off']`                    |
 | [`maximum-line-length`](https://github.com/wooorm/remark-lint/tree/master/packages/remark-lint-maximum-line-length)                             | `['off']`                    |
 | [`no-auto-link-without-protocol`](https://github.com/wooorm/remark-lint/tree/master/packages/remark-lint-no-auto-link-without-protocol)         | `['error']`                  |
-| [`no-blockquote-without-caret`](https://github.com/wooorm/remark-lint/tree/master/packages/remark-lint-no-blockquote-without-caret)             | `['error']`                  |
+| [`no-blockquote-without-marker`](https://github.com/wooorm/remark-lint/tree/master/packages/remark-lint-no-blockquote-without-marker)             | `['error']`                  |
 | [`no-consecutive-blank-lines`](https://github.com/wooorm/remark-lint/tree/master/packages/remark-lint-no-consecutive-blank-lines)               | `['error']`                  |
 | [`no-duplicate-definitions`](https://github.com/wooorm/remark-lint/tree/master/packages/remark-lint-no-duplicate-definitions)                   | `['error']`                  |
 | [`no-duplicate-headings`](https://github.com/wooorm/remark-lint/tree/master/packages/remark-lint-no-duplicate-headings)                         | `['off']`                    |
