@@ -71,7 +71,7 @@ This preset configures [remark-lint](https://github.com/wooorm/remark-lint) with
 | [`maximum-heading-length`](https://github.com/wooorm/remark-lint/tree/master/packages/remark-lint-maximum-heading-length)                       | `['off']`                    |
 | [`maximum-line-length`](https://github.com/wooorm/remark-lint/tree/master/packages/remark-lint-maximum-line-length)                             | `['off']`                    |
 | [`no-auto-link-without-protocol`](https://github.com/wooorm/remark-lint/tree/master/packages/remark-lint-no-auto-link-without-protocol)         | `['error']`                  |
-| [`no-blockquote-without-caret`](https://github.com/wooorm/remark-lint/tree/master/packages/remark-lint-no-blockquote-without-caret)             | `['error']`                  |
+| [`no-blockquote-without-marker`](https://github.com/wooorm/remark-lint/tree/master/packages/remark-lint-no-blockquote-without-marker)             | `['error']`                  |
 | [`no-consecutive-blank-lines`](https://github.com/wooorm/remark-lint/tree/master/packages/remark-lint-no-consecutive-blank-lines)               | `['error']`                  |
 | [`no-duplicate-definitions`](https://github.com/wooorm/remark-lint/tree/master/packages/remark-lint-no-duplicate-definitions)                   | `['error']`                  |
 | [`no-duplicate-headings`](https://github.com/wooorm/remark-lint/tree/master/packages/remark-lint-no-duplicate-headings)                         | `['off']`                    |

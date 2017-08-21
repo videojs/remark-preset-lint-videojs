@@ -27,7 +27,7 @@ var plugins = [
 	// [require('remark-lint-maximum-heading-length'), ['off']],
 	// [require('remark-lint-maximum-line-length', ['off']],
 	[require('remark-lint-no-auto-link-without-protocol'), ['error']],
-	[require('remark-lint-no-blockquote-without-caret'), ['error']],
+	[require('remark-lint-no-blockquote-without-marker'), ['error']],
 	[require('remark-lint-no-consecutive-blank-lines'), ['error']],
 	[require('remark-lint-no-duplicate-definitions'), ['error']],
 	// [require('remark-lint-no-duplicate-headings'), ['off']],
