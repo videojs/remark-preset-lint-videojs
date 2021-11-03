@@ -63,6 +63,7 @@ This preset configures [remark-lint](https://github.com/wooorm/remark-lint) with
 | [`hard-break-spaces`](https://github.com/wooorm/remark-lint/tree/master/packages/remark-lint-hard-break-spaces)                                 | `['off']`                    |
 | [`heading-increment`](https://github.com/wooorm/remark-lint/tree/master/packages/remark-lint-heading-increment)                                 | `['error']`                  |
 | [`heading-style`](https://github.com/wooorm/remark-lint/tree/master/packages/remark-lint-heading-style)                                         | `['error', 'atx']`           |
+| [`linebreak-style`](https://github.com/wooorm/remark-lint/tree/master/packages/remark-lint-linebreak-style)                                     | `['warn', 'unix']`           |
 | [`link-title-style`](https://github.com/wooorm/remark-lint/tree/master/packages/remark-lint-link-title-style)                                   | `['warn', '"']`              |
 | [`list-item-bullet-indent`](https://github.com/wooorm/remark-lint/tree/master/packages/remark-lint-list-item-bullet-indent)                     | `['error']`                  |
 | [`list-item-content-indent`](https://github.com/wooorm/remark-lint/tree/master/packages/remark-lint-list-item-content-indent)                   | `['warn']`                   |
@@ -71,7 +72,7 @@ This preset configures [remark-lint](https://github.com/wooorm/remark-lint) with
 | [`maximum-heading-length`](https://github.com/wooorm/remark-lint/tree/master/packages/remark-lint-maximum-heading-length)                       | `['off']`                    |
 | [`maximum-line-length`](https://github.com/wooorm/remark-lint/tree/master/packages/remark-lint-maximum-line-length)                             | `['off']`                    |
 | [`no-auto-link-without-protocol`](https://github.com/wooorm/remark-lint/tree/master/packages/remark-lint-no-auto-link-without-protocol)         | `['error']`                  |
-| [`no-blockquote-without-marker`](https://github.com/wooorm/remark-lint/tree/master/packages/remark-lint-no-blockquote-without-marker)             | `['error']`                  |
+| [`no-blockquote-without-marker`](https://github.com/wooorm/remark-lint/tree/master/packages/remark-lint-no-blockquote-without-marker)           | `['error']`                  |
 | [`no-consecutive-blank-lines`](https://github.com/wooorm/remark-lint/tree/master/packages/remark-lint-no-consecutive-blank-lines)               | `['error']`                  |
 | [`no-duplicate-definitions`](https://github.com/wooorm/remark-lint/tree/master/packages/remark-lint-no-duplicate-definitions)                   | `['error']`                  |
 | [`no-duplicate-headings`](https://github.com/wooorm/remark-lint/tree/master/packages/remark-lint-no-duplicate-headings)                         | `['off']`                    |
@@ -92,6 +93,7 @@ This preset configures [remark-lint](https://github.com/wooorm/remark-lint) with
 | [`no-literal-urls`](https://github.com/wooorm/remark-lint/tree/master/packages/remark-lint-no-literal-urls)                                     | `['off']`                    |
 | [`no-missing-blank-lines`](https://github.com/wooorm/remark-lint/tree/master/packages/remark-lint-no-missing-blank-lines)                       | `['off']`                    |
 | [`no-multiple-toplevel-headings`](https://github.com/wooorm/remark-lint/tree/master/packages/remark-lint-no-multiple-toplevel-headings)         | `['error']`                  |
+| [`no-paragraph-content-indent`](https://github.com/wooorm/remark-lint/tree/master/packages/remark-lint-no-paragraph-content-indent)             | `['warn']`                   |
 | [`no-reference-like-url`](https://github.com/wooorm/remark-lint/tree/master/packages/remark-lint-no-reference-like-url)                         | `['error']`                  |
 | [`no-shell-dollars`](https://github.com/wooorm/remark-lint/tree/master/packages/remark-lint-no-shell-dollars)                                   | `['error']`                  |
 | [`no-shortcut-reference-image`](https://github.com/wooorm/remark-lint/tree/master/packages/remark-lint-no-shortcut-reference-image)             | `['off']`                    |
